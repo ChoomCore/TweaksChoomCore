@@ -4,9 +4,9 @@
 
 Este é um projeto simples e pessoal para otimizar o Windows. O objetivo é deixar o sistema mais rápido, seguro e agradável de usar, focando em:
 
-* **Performance:** Seu PC fica mais ágil e responsivo.
+* **Performance:** Sistema operacional mais ágil e responsivo.
 * **Estabilidade:** Menos travamentos e um sistema mais confiável.
-* **Privacidade:** Reduzimos a telemetria e a coleta de dados.
+* **Privacidade:** Menos telemetria e coleta de dados.
 * **Menor Input Lag:** Comandos respondem mais rápido, perfeito para jogos.
 * **Windows Mais Leve:** Removido o que não é essencial, deixando o sistema "limpo".
 
